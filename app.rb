@@ -6,7 +6,7 @@ class App < Sinatra::Base
     "It was so awesome to see Karlie yesterday! She put a lot of our pictures and videos on her Instagram! I love her so much! She is so nice!"
   end
 
-get '/sherbet'do
+get '/sherbet' do
   "Sherbet Sherbet"
 end
 
